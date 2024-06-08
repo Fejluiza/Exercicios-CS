@@ -1,0 +1,14 @@
+C:\Users\Aluno\Documents\Proa\C Sharp\Exercícios\Exercicios\exercicio09\bin\Debug\net8.0\01.exe
+C:\Users\Aluno\Documents\Proa\C Sharp\Exercícios\Exercicios\exercicio09\bin\Debug\net8.0\01.deps.json
+C:\Users\Aluno\Documents\Proa\C Sharp\Exercícios\Exercicios\exercicio09\bin\Debug\net8.0\01.runtimeconfig.json
+C:\Users\Aluno\Documents\Proa\C Sharp\Exercícios\Exercicios\exercicio09\bin\Debug\net8.0\01.dll
+C:\Users\Aluno\Documents\Proa\C Sharp\Exercícios\Exercicios\exercicio09\bin\Debug\net8.0\01.pdb
+C:\Users\Aluno\Documents\Proa\C Sharp\Exercícios\Exercicios\exercicio09\obj\Debug\net8.0\01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\Proa\C Sharp\Exercícios\Exercicios\exercicio09\obj\Debug\net8.0\01.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Proa\C Sharp\Exercícios\Exercicios\exercicio09\obj\Debug\net8.0\01.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Proa\C Sharp\Exercícios\Exercicios\exercicio09\obj\Debug\net8.0\01.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Proa\C Sharp\Exercícios\Exercicios\exercicio09\obj\Debug\net8.0\01.dll
+C:\Users\Aluno\Documents\Proa\C Sharp\Exercícios\Exercicios\exercicio09\obj\Debug\net8.0\refint\01.dll
+C:\Users\Aluno\Documents\Proa\C Sharp\Exercícios\Exercicios\exercicio09\obj\Debug\net8.0\01.pdb
+C:\Users\Aluno\Documents\Proa\C Sharp\Exercícios\Exercicios\exercicio09\obj\Debug\net8.0\01.genruntimeconfig.cache
+C:\Users\Aluno\Documents\Proa\C Sharp\Exercícios\Exercicios\exercicio09\obj\Debug\net8.0\ref\01.dll
